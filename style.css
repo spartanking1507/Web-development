@@ -1,0 +1,127 @@
+                                                    /*homepage*/
+
+.navigation #homepage-title {
+    padding: 0 24px 0 23px;
+    margin: 0 0 0 0;
+    height: 350px;
+    width: 700px;
+    background-color: black;
+    position: relative;
+    float: none;
+
+}
+
+.navigation #title-leftside {
+    height: 350px;
+    width: 320px;
+    margin: 0 0 0 0;
+    padding: 0 0 0 250px;
+    background-color: black;
+    float: left;
+    position: relative;
+
+}
+
+.navigation #title-rightside {
+    height: 350px;
+    width: 320px;
+    margin: 0 0 0 0;
+    padding: 0 250px 0 0;
+    background-color: black;
+    float: right;
+    position: relative;
+
+}
+
+.navigation #navigation-links th h2{
+    font-size: 32px;
+    textcolor: white;
+    text-align: center;
+    text-decoration: no-underline;
+    margin: 0 0 0 0;
+    padding: 50px 100px 50px 100px;
+    position: relative;
+    background-color: black;
+
+}
+
+p {
+    color: white;
+    font-size: 32px;
+    font-family: sans-serif;
+    test-align: left;
+    border: medium solid black;
+    margin: 0 0 0 0;
+    padding: 100px 900px 100px 100px;
+    background-image: url("http://www.gamesknit.com/wp-content/uploads/2015/10/40845_halo_master_chief.jpg");
+    position: relative;
+}
+
+#homepage-image {
+    width: 1800px;
+    height: 1000px;
+}
+
+#footer {
+    font-size: 18px;
+    font-color: black;
+    text-align: center;
+}
+
+                                                    /*games page*/
+
+.gameslist #gameslist-title {
+    color: black;
+    font-size: 4em;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.gameslist #list {
+    color: black;
+    font-size: 38px;
+    text-align: left;
+    font-style: italic;
+    display: inline;
+}
+
+#gamespage-image {
+    height: 1000px;
+    width: 800px;
+    position: relative;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    display: inline;
+}
+
+                                                    /*game scores page*/
+.score-table thead {
+    font-size: 2em;
+    font-family: sans-serif;
+    text-decoration: underline;
+
+}
+
+.score-table {
+    color: black;
+    font-size: 32px;
+    font-family: sans-serif;
+    border: medium solid black;
+    margin: 50px 900px 0 50px;
+    padding: 20px 0 20px 20px;
+    position: relative;
+}
+
+.score-table td {
+    border-style: double;
+}
+                                                    /*game covers page*/
+
+.game-covers td{
+    height: 300px;
+    width: 300px;
+    border: medium solid black;
+
+    padding: 40px 0 40px 40px;
+
+}
